@@ -1,0 +1,38 @@
+ABSTRACT
+
+Electric vehicles have gained popularity as a sustainable mode of transportation in recent years. Despite the numerous advantages of EVs, including decreased greenhouse gas emissions and lower fuel costs, EV adoption has been delayed in many places. We hope to research the challenges to EV adoption and explore potential solutions to encourage more people to transition to electric vehicles in this project.
+We will collect data from surveys, public records, and industry reports in order to accomplish our objective. The number and variety of electric vehicles on the road, as well as the availability and accessibility of charging infrastructure, as well as consumers' attitudes and perceptions of EVs, will all be the subject of our analysis using this data. We will also investigate how government policies, incentives, and regulations affect the adoption of electric vehicles.
+Utilizing measurable examination and AI calculations, we will recognize the critical drivers and boundaries to EV reception in the locale. Additionally, we will investigate a variety of scenarios and approaches to encourage the use of EVs, such as making charging infrastructure more readily available, improving battery technology, and providing consumers with financial incentives. In the end, we will present our findings and suggestions to policymakers, stakeholders, and the general public with the intention of encouraging the use of electric vehicles and creating a transportation system that is more environmentally friendly.
+INTRODUCTION
+
+Electric vehicles (EVs) have emerged as a potentially viable answer to the issues of lowering greenhouse gas emissions and developing a more sustainable transportation system. However, EV adoption has been slow in many areas, and there are still numerous obstacles to overcome before EVs become a popular transportation choice. The goal of this project is to research the elements that influence EV adoption in Turkey and to look into viable solutions to encourage more people to switch to electric vehicles. Our ultimate goal is to provide insights that will assist policymakers and stakeholders in making educated decisions about increasing EV adoption and developing a more sustainable transportation system.
+
+DATA COLLECTION
+
+We will collect statistics on the uptake of electric vehicles in Turkey as part of this research. We intend to collect data from a variety of sources, including government agencies, non-profit groups, and commercial businesses. We will specifically look for information on the number of electric vehicles sold in Turkey in recent years, the number of EV charging stations installed in various regions of Turkey, the average cost of electric vehicles compared to traditional gasoline vehicles, and the availability of government incentives or subsidies for purchasing electric vehicles.
+
+To ensure the legitimacy and validity of our data, we will only use data from reliable sources and, whenever feasible, cross-check the data with numerous sources. To assure the statistical significance of our research, we intend to collect a big dataset containing at least 8,000 observations. Furthermore, we will speak with the instructor to ensure that the data we collect is relevant and sufficient for our research issue. Overall, we hope to collect a large enough dataset to answer our research question and provide relevant insights to policymakers and stakeholders.
+DATA CLEANSING AND MANIPULATION
+
+This project will necessitate data processing and purification. To assure the quality and consistency of the initial dataset, various cleaning and preparation activities are likely to be required. This includes inspecting the data for missing or incorrect values, outliers, and contradictions. Exploratory data analysis techniques may also be used to acquire insight into the data's structure and patterns.
+
+Furthermore, data manipulation may be required to convert the data into a format appropriate for analysis using the selected method. This could entail combining data from several sources, aggregating data at various temporal or geographic levels, or encoding categorical characteristics for use in machine learning models.
+Overall, data modification and purification will be critical in assuring the correctness and validity of the analytic results. These procedures must be followed with care to ensure that the data is properly prepared for analysis using the chosen method.
+METHOD
+
+For this study on electrical vehicles in Turkey, we will do predictive analytics using the Gradient Boosting approach to forecast the country's future adoption rate of electric vehicles. The goal of this analysis is to provide insights into the elements that may influence the rate of adoption of electric vehicles in Turkey and to assist industry players in making informed decisions.
+To do this analysis, we will use Python and its accompanying machine learning tools, such as scikit-learn and XGBoost. We will specifically use gradient boosting regression models to forecast adoption rates based on variables such as government incentives, charging infrastructure, gasoline pricing, and customer behavior. We will also use data visualization tools such as Matplotlib and Seaborn. 
+OUTCOMES
+
+The goal of this project is to create a machine learning model that can reliably estimate the rate of adoption of electric vehicles in Turkey. The model will provide insights into the factors influencing adoption rates and assist industry players in making informed decisions about increasing the usage of electric vehicles.
+This project's outcomes can be used in a variety of ways, including:
+1.	Policymaking: Policymakers can utilize the findings of this project to develop policies that encourage the usage of electric vehicles in Turkey. For example, if the model indicates that the availability of charging infrastructure is a significant factor in encouraging the adoption of electric vehicles, officials might prioritize the construction of more charging stations throughout the country.
+2.	Industry decision-making: The project's findings can be used by industry participants to make informed decisions about investing in the production and marketing of electric vehicles in Turkey. If the model forecasts that the price of electric vehicles is a significant factor in their adoption, industry actors can focus on lowering production costs to make electric vehicles more cheap for consumers.
+3.	Academic research: The findings of this experiment can be added to the existing literature on the adoption of electric vehicles and serve as a foundation for future research on the subject.
+REFERENCES
+
+https://www.iea.org/reports/electric-vehicles
+https://www.iea.org/reports/global-ev-outlook-2022
+https://data.tuik.gov.tr/Bulten/Index?p=Motorlu-Kara-Tasitlari-Aralik-2022-49436
+Turkey 2021 – Analysis - IEA
+Global EV Data Explorer – Data Tools - IEA
